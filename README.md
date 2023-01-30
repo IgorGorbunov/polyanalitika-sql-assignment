@@ -1,0 +1,1 @@
+# polyanalitika-sql-assignment
